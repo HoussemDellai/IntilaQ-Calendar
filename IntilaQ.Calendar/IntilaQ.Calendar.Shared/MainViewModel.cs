@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
-using System.Text;
 using System.Threading.Tasks;
-using Windows.UI;
-using Windows.UI.Xaml.Media;
 using Syncfusion.UI.Xaml.Schedule;
 
 namespace IntilaQ.Calendar
