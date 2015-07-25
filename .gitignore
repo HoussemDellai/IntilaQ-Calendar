@@ -1,5 +1,5 @@
 ## Ignore server project as it contains passwords for the server side.
-Server/
+Server/IntilaQ.Calendar.Services/Web.config
 
 
 ## Ignore Visual Studio temporary files, build results, and
