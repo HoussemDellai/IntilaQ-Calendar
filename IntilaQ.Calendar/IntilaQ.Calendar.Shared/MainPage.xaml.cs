@@ -181,12 +181,12 @@ namespace IntilaQ.Calendar
 
         void schedule_AppointmentEditorClosed(object sender, AppointmentEditorClosedEventArgs e)
         {
-            stackpanel.Visibility = Visibility.Visible;
+            //stackpanel.Visibility = Visibility.Visible;
         }
 
         void schedule_AppointmentEditorOpening(object sender, AppointmentEditorOpeningEventArgs e)
         {
-            stackpanel.Visibility = Visibility.Collapsed;
+            //stackpanel.Visibility = Visibility.Collapsed;
         }
 
         void btn_ScheduleType_Click(object sender, RoutedEventArgs e)
