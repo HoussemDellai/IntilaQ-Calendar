@@ -15,6 +15,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{8672F0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntilaQ.Calendar.Services", "Server\IntilaQ.Calendar.Services\IntilaQ.Calendar.Services.csproj", "{E53DD422-1DB3-40E1-A78F-0D9036E2FD32}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshots", "Screenshots", "{2B849372-1575-4D85-9093-3CE7D7CE6DD7}"
+	ProjectSection(SolutionItems) = preProject
+		IntilaQ.Calendar\Screenshots\phone apps.JPG = IntilaQ.Calendar\Screenshots\phone apps.JPG
+		IntilaQ.Calendar\Screenshots\phone.png = IntilaQ.Calendar\Screenshots\phone.png
+		IntilaQ.Calendar\Screenshots\phone2.png = IntilaQ.Calendar\Screenshots\phone2.png
+		IntilaQ.Calendar\Screenshots\phone3.png = IntilaQ.Calendar\Screenshots\phone3.png
+		IntilaQ.Calendar\Screenshots\phone4.png = IntilaQ.Calendar\Screenshots\phone4.png
+		IntilaQ.Calendar\Screenshots\win8 2.JPG = IntilaQ.Calendar\Screenshots\win8 2.JPG
+		IntilaQ.Calendar\Screenshots\win8 apps.JPG = IntilaQ.Calendar\Screenshots\win8 apps.JPG
+		IntilaQ.Calendar\Screenshots\Win8.png = IntilaQ.Calendar\Screenshots\Win8.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		IntilaQ.Calendar\IntilaQ.Calendar.Shared\IntilaQ.Calendar.Shared.projitems*{91a2ab9d-79e1-44b5-bdcb-470dcf5d5ff2}*SharedItemsImports = 4

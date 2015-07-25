@@ -19,18 +19,6 @@ namespace IntilaQ.Calendar
             }
         }
 
-        //private List<EventItem> _eventItems;
-
-        //public List<EventItem> EventItems
-        //{
-        //    get { return _eventItems; }
-        //    set
-        //    {
-        //        _eventItems = value; 
-        //        OnPropertyChanged();
-        //    }
-        //}
-
         public MainViewModel()
         {
             InitializeDataAsync();
