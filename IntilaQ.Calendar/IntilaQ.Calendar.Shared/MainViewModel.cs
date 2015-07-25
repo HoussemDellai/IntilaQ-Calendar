@@ -5,6 +5,7 @@ using Syncfusion.UI.Xaml.Schedule;
 
 namespace IntilaQ.Calendar
 {
+
     public class MainViewModel : INotifyPropertyChanged
     {
         private ScheduleAppointmentCollection _scheduleAppointmentCollection = new ScheduleAppointmentCollection();
